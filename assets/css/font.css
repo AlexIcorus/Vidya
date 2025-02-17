@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Lao:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.navbar .navbar-nav .nav-link {
+    font-family: 'Noto Serif Lao', serif;
+    font-weight: 600;
+}
+
+.nav-item {
+    font-family: 'Noto Serif Lao', serif;
+    font-weight: 600;
+}
+
+.text-primary,
+h1 {
+    font-family: 'Lobster Two', cursive;
+    font-weight: 700;
+}
+
+/*** Heading ***/
+h1,
+h2,
+h3,
+h4,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+small,
+p,
+a,
+label,  
+button,
+.display-1,
+.display-2,
+.display-3,
+.display-4,
+.display-5,
+.display-6 {
+    font-family: 'Noto Serif Lao', serif;
+    font-weight: 600;
+}
+
+h5,
+h6,
+.h5,
+.h6 {
+    font-weight: 600;
+}
+
+.font-secondary {
+    font-family: 'Lobster Two', cursive;
+}

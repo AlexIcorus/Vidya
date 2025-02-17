@@ -1,0 +1,21 @@
+body {
+    background-color: #E8F9FF;
+}
+
+.manage_btn {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;    /* Horizontally center content */
+    justify-content: center; /* Vertically center content (optional) */
+    text-align: center;      /* Center text if any */
+}
+
+.btn_edit {
+    width: 75px;
+    margin-right: 20px;
+}
+
+.btn_add {
+    width: 75px;
+    font-size: 24px;
+}
